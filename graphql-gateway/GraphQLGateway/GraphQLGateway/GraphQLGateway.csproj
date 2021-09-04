@@ -9,8 +9,4 @@
     <PackageReference Include="HotChocolate.AspNetCore" Version="11.3.6" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="GraphQL\" />
-  </ItemGroup>
-
 </Project>
